@@ -1,0 +1,12 @@
+SUNWARD V6 — GO LIVE CHECKLIST
+
+1. Replace demo brand SUNWARD Solar NSW with client's confirmed business name and approved logo.
+2. Insert approved business phone number, business email, ABN, and real service areas.
+3. Connect the form to an HTTPS backend/server-side mail delivery with spam control. Current form DOES NOT submit any data.
+4. Replace illustrative generated photos with real, approved installation images if available. Do not call these client completed projects.
+5. Confirm installer accreditation/licence details before mentioning any endorsements or industry schemes.
+6. Review rebate descriptions and financial savings independently before publishing any figures.
+7. Add privacy policy, terms and consent information before processing personal information.
+8. Test on current Chrome, Firefox, Safari, iOS and Android devices.
+9. Use optimized WEBP in assets/images at runtime. Original PNG masters are in assets/originals for future design edits.
+10. Preserve footer credit: Created by 4Business Group.
